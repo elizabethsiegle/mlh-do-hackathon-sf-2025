@@ -7,8 +7,11 @@
 - [ ] [Strava and Goodreads Wrapup](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)
 - [ ] [2025 SFPL Library Wrap-up](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
 - [ ] What's Next
-    - READMEs (so I will be hacking with you this weekend!)
     - email lsiegle@digitalocean.com, 🐦@lizziepika
+    - frontend for library 2025 wrapup
+    - better frontend for Strava Goodreads wrapup
+    - chat with agent/add uploaded Strava + Goodreads CSVs to knowledgebases
+    - READMEs (so I will be hacking with you this weekend!)
 - [ ] Resources
     - [Create an Agent on Gradient AI docs](https://docs.digitalocean.com/products/gradient-ai-platform/how-to/create-agents/)
     - [Serverless Inference models](https://docs.digitalocean.com/products/gradient-ai-platform/details/models/)

@@ -31,3 +31,4 @@
     - [Run fal AI image/audio gen models on DO YT video](https://www.youtube.com/watch?v=V8NWb45Yp-g)
     - [fal AI models on DO](https://www.digitalocean.com/blog/fal-ai-image-models-gradient-ai-platform)
     - [fal podcast generator app](https://github.com/aprildagonese/fal-podcast-generator)
+    - [Book tennis courts and workout classes in SF LangChain-Gradient demo app](https://github.com/elizabethsiegle/bayclub-class-courts-do-langchain)

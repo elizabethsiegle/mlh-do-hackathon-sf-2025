@@ -2,6 +2,7 @@
 
 - [ ] 👋🌊 
 - [ ] What is DO? Gradient AI?🤖
+    - run Claude Code on droplets (see [Abel](https://x.com/hello_abel_on_x))
 - [ ] Build a Knowledge Base and Agent🕵️‍♀️
 - [ ] Schedule indexes to auto-update knowledge
 - [ ] [Strava🏃‍♀️ and Goodreads📕 Wrapped](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)

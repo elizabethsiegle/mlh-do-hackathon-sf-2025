@@ -1,19 +1,25 @@
 ## MLH DO Hackathon
 
 - [ ] 👋🌊 
-- [ ] What is DO? Gradient AI?
-- [ ] Build a Knowledge Base and Agent
+- [ ] What is DO? Gradient AI?🤖
+- [ ] Build a Knowledge Base and Agent🕵️‍♀️
 - [ ] Schedule indexes to update knowledge
-- [ ] [Strava and Goodreads Wrapup](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)
+- [ ] [Strava🏃‍♀️ and Goodreads📕 Wrapup](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)
+    - DO app platform
 - [ ] [2025 SFPL Library Wrap-up](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
 - [ ] What's Next
     - email lsiegle@digitalocean.com, 🐦@lizziepika
     - frontend for library 2025 wrapup
     - better frontend for Strava Goodreads wrapup
     - chat with agent/add uploaded Strava + Goodreads CSVs to knowledgebases
+    - fal AI image gen for prettier wrapup graphics
     - READMEs (so I will be hacking with you this weekend!)
 - [ ] Resources
+    - [Gradient AI](https://www.digitalocean.com/products/gradient/platform)
     - [Create an Agent on Gradient AI docs](https://docs.digitalocean.com/products/gradient-ai-platform/how-to/create-agents/)
     - [Serverless Inference models](https://docs.digitalocean.com/products/gradient-ai-platform/details/models/)
     - [DO YT](https://www.youtube.com/@DigitalOcean)
     - [NBA Stats Agent YT Video](https://youtu.be/52fqZqbjucw?si=FR8s-KYkMcXyH7D0)
+    - [Run fal AI image/audio gen models on DO YT video](https://www.youtube.com/watch?v=V8NWb45Yp-g)
+    - [fal AI models on DO](https://www.digitalocean.com/blog/fal-ai-image-models-gradient-ai-platform)
+    - [fal podcast generator app](https://github.com/aprildagonese/fal-podcast-generator)

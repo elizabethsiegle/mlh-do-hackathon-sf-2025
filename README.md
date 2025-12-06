@@ -3,17 +3,16 @@
 - [ ] 👋🌊 
 - [ ] What is DO? Gradient AI?🤖
     - run Claude Code on droplets (see [Abel](https://x.com/hello_abel_on_x))
-- [ ] Build a Knowledge Base and Agent🕵️‍♀️
+- [ ] Let's build a Knowledge Base and Agent🕵️‍♀️
 - [ ] Schedule indexes to auto-update knowledge
 - [ ] [Strava🏃‍♀️ and Goodreads📕 Wrapped](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)
     - DO app platform
     - serverless inference oss-gpt-120b
 - [ ] [2025 SFPL🌉 Library📚 Wrapped](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
     - serverless inference llama-3.3-70b
-- [ ] What's Next
+- [ ] What's Next!
     - email lsiegle@digitalocean.com, [🐦@lizziepika](https://x.com/lizziepika), [🏃‍♀️🚴🏼🎾🥒 Strava](https://www.strava.com/athletes/37425418), [LinkedIn](https://www.linkedin.com/in/elsiegle/)
-    - frontend for library 2025 wrapup
-    - better frontend for Strava Goodreads wrapup
+    - frontend for library 2025 wrapped, Strava Goodreads wrapped
     - chat with agent/add uploaded Strava + Goodreads CSVs to knowledgebases
     - fal AI image gen for prettier wrapup graphics
     - READMEs (so I will be hacking with you this weekend!)

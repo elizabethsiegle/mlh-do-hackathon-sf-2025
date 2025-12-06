@@ -10,7 +10,7 @@
 - [ ] [2025 SFPL🌉 Library📚 Wrapped](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
     - serverless inference llama-3.3-70b
 - [ ] What's Next
-    - email lsiegle@digitalocean.com, 🐦@lizziepika
+    - email lsiegle@digitalocean.com, [🐦@lizziepika](https://x.com/lizziepika), [🏃‍♀️🚴🏼🎾🥒 Strava](https://www.strava.com/athletes/37425418), [LinkedIn](https://www.linkedin.com/in/elsiegle/)
     - frontend for library 2025 wrapup
     - better frontend for Strava Goodreads wrapup
     - chat with agent/add uploaded Strava + Goodreads CSVs to knowledgebases

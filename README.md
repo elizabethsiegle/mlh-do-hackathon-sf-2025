@@ -3,10 +3,12 @@
 - [ ] 👋🌊 
 - [ ] What is DO? Gradient AI?🤖
 - [ ] Build a Knowledge Base and Agent🕵️‍♀️
-- [ ] Schedule indexes to update knowledge
-- [ ] [Strava🏃‍♀️ and Goodreads📕 Wrapup](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)
+- [ ] Schedule indexes to auto-update knowledge
+- [ ] [Strava🏃‍♀️ and Goodreads📕 Wrapped](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)
     - DO app platform
-- [ ] [2025 SFPL Library Wrap-up](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
+    - serverless inference oss-gpt-120b
+- [ ] [2025 SFPL🌉 Library📚 Wrapped](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
+    - serverless inference llama-3.3-70b
 - [ ] What's Next
     - email lsiegle@digitalocean.com, 🐦@lizziepika
     - frontend for library 2025 wrapup
@@ -14,6 +16,12 @@
     - chat with agent/add uploaded Strava + Goodreads CSVs to knowledgebases
     - fal AI image gen for prettier wrapup graphics
     - READMEs (so I will be hacking with you this weekend!)
+    - upcoming events 👋🥳: 
+        - [❄️ AI Trivia Night + Holiday Party🎉 ❄️ hi Fred](https://luma.com/n9ubskh0)
+        - [Move Fast and Make Things w/ ngrok.ai](https://luma.com/le2sh1p7)
+        - [Holiday Cocktail🍹 Mixer w/ CodeRabbit + Diversis Capital](https://luma.com/rnshu9qa)
+        - [AI Engineer Pickleball🥒 (Pylon x DigitalOcean) 🧠](https://luma.com/6yq9ay3t)
+
 - [ ] Resources
     - [Gradient AI](https://www.digitalocean.com/products/gradient/platform)
     - [Create an Agent on Gradient AI docs](https://docs.digitalocean.com/products/gradient-ai-platform/how-to/create-agents/)

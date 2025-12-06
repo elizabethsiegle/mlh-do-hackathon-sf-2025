@@ -1,4 +1,4 @@
-## MLH DO Hackathon
+## [MLH DO Hackathon SF 2025](https://luma.com/MLHAIHackathonSF)
 PROMO CODES: DOPROMO25 FOR $25, SAVE200 FOR $200
 - [ ] 👋🌊 
 - [ ] What is DO? Gradient AI?🤖

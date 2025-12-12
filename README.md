@@ -1,7 +1,8 @@
 ## MLH DO Hackathon [SF December 2025](https://luma.com/MLHAIHackathonSF) | [NYC December 2025](https://luma.com/MLHAIHackathonNYC)
 PROMO CODES: DOPROMO25 FOR $25, SAVE200 FOR $200
 - [ ] 👋🌊 
-- [ ] What is DO? Gradient AI?🤖
+- [ ] What is DO? ☁️ Gradient AI?🤖
+    - [serverless inference](https://docs.digitalocean.com/products/gradient-ai-platform/how-to/use-serverless-inference/)
     - run Claude Code on [droplets](https://www.digitalocean.com/products/droplets) (see [Abel](https://x.com/hello_abel_on_x))
 - [ ] Let's build a Knowledge Base and Agent🕵️‍♀️!
 - [ ] Schedule auto-update knowledge

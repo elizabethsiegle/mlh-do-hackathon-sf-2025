@@ -1,26 +1,18 @@
-## MLH DO Hackathon[SF December 2025](https://luma.com/MLHAIHackathonSF) | [NYC December 2025](https://luma.com/MLHAIHackathonNYC)
+## MLH DO Hackathon [SF December 2025](https://luma.com/MLHAIHackathonSF) | [NYC December 2025](https://luma.com/MLHAIHackathonNYC)
 PROMO CODES: DOPROMO25 FOR $25, SAVE200 FOR $200
 - [ ] 👋🌊 
 - [ ] What is DO? Gradient AI?🤖
-    - run Claude Code on droplets (see [Abel](https://x.com/hello_abel_on_x))
-- [ ] Let's build a Knowledge Base and Agent🕵️‍♀️
+    - run Claude Code on [droplets](https://www.digitalocean.com/products/droplets) (see [Abel](https://x.com/hello_abel_on_x))
+- [ ] Let's build a Knowledge Base and Agent🕵️‍♀️!
 - [ ] Schedule auto-update knowledge
-- [ ] [Strava🏃‍♀️ and Goodreads📕 Wrapped](https://github.com/elizabethsiegle/goodreads-strava-wrapup-do/blob/main/app.py)
-    - DO app platform
-    - serverless inference oss-gpt-120b
-- [ ] [2025 SFPL🌉 Library📚 Wrapped](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
+- [ ] [2025 SFPL🌉 Library📚, Goodreads📕, Strava🏃‍♀️ Wrapped](https://github.com/elizabethsiegle/sfpl-library-wrapup-2025-do)
     - serverless inference llama-3.3-70b
+    - DO app platform
+    - Gradient AI agent w/ knowledge base of workout/book/library CSVs
 - [ ] What's Next!
     - 👋 📧lsiegle@digitalocean.com, [🐦@lizziepika](https://x.com/lizziepika), [🏃‍♀️🚴🏼🎾🥒 Strava](https://www.strava.com/athletes/37425418), [LinkedIn](https://www.linkedin.com/in/elsiegle/)
-    - frontend for library 2025 wrapped, Strava Goodreads wrapped
-    - chat with agent/add uploaded Strava + Goodreads CSVs to knowledgebases
-    - fal AI image gen for prettier wrapup graphics
-    - READMEs (so I will be hacking with you this weekend!)
-    - upcoming events 👋🥳: 
-        - [❄️ AI Trivia Night + Holiday Party🎉 ❄️ hi Fred](https://luma.com/n9ubskh0)
-        - [Move Fast and Make Things w/ ngrok.ai](https://luma.com/le2sh1p7)
-        - [Holiday Cocktail🍹 Mixer w/ CodeRabbit + Diversis Capital](https://luma.com/rnshu9qa)
-        - [AI Engineer Pickleball🥒 (Pylon x DigitalOcean) 🧠](https://luma.com/6yq9ay3t)
+    - fal AI image gen for prettier Wrapped graphics
+    - checkout books via chat -> run DO Functions to scrape SFPL website
 
 - [ ] Resources
     - [Gradient AI](https://www.digitalocean.com/products/gradient/platform)

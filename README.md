@@ -25,3 +25,6 @@ PROMO CODES: DOPROMO25 FOR $25, SAVE200 FOR $200
     - [fal AI models on DO](https://www.digitalocean.com/blog/fal-ai-image-models-gradient-ai-platform)
     - [fal podcast generator app](https://github.com/aprildagonese/fal-podcast-generator)
     - [Book tennis courts and workout classes in SF LangChain-Gradient demo app](https://github.com/elizabethsiegle/bayclub-class-courts-do-langchain)
+     
+    - <img width="328" height="328" alt="qr code" src="https://github.com/user-attachments/assets/dead04ef-5130-44e2-94ec-9e698bddbd9e" />
+
